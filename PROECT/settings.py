@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     "dj_rest_auth.registration", # new
     'crispy_forms',
     'social_django',
+    'django_extensions',
     
 ]
 
